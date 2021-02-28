@@ -3,7 +3,6 @@ package org.zerock.ex3.dto;
 import lombok.Builder;
 import lombok.Data;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 @Data
